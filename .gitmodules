@@ -1,0 +1,24 @@
+[submodule "maven/exec-maven-plugin"]
+	path = maven/exec-maven-plugin
+	url = https://github.com/mojohaus/exec-maven-plugin.git
+[submodule "maven/maven-surefire"]
+	path = maven/maven-surefire
+	url = https://git-wip-us.apache.org/repos/asf/maven-surefire.git
+[submodule "maven/maven"]
+	path = maven/maven
+	url = https://git-wip-us.apache.org/repos/asf/maven.git
+[submodule "checkstyle"]
+	path = checkstyle
+	url = https://github.com/checkstyle/checkstyle
+[submodule "cobertura"]
+	path = cobertura
+	url = https://github.com/cobertura/cobertura.git
+[submodule "h2/h2database"]
+	path = h2/h2database
+	url = https://github.com/h2database/h2database.git
+[submodule "gradle"]
+	path = gradle
+	url = https://github.com/gradle/gradle.git
+[submodule "hibernate/hibernate-orm"]
+	path = hibernate/hibernate-orm
+	url = https://github.com/hibernate/hibernate-orm.git
