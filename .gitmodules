@@ -22,3 +22,6 @@
 [submodule "hibernate/hibernate-orm"]
 	path = hibernate/hibernate-orm
 	url = https://github.com/hibernate/hibernate-orm.git
+[submodule "hibernate/hibernate-jpa-api"]
+	path = hibernate/hibernate-jpa-api
+	url = https://github.com/hibernate/hibernate-jpa-api.git

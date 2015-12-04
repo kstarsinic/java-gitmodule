@@ -1,0 +1,24 @@
+# There are more hibernate repos than I've cloned here.
+## 2015-10-28:
+### ci.hibernate.org
+### hibernate-commons-annotations
+### hibernate-demos
+### hibernate-hql-parser
+### hibernate-ide-codestyles
+### hibernate-jdocbook-style
+### hibernate-jpa-api
+### hibernate-matrix-testing
+### hibernate-metamodelgen
+### hibernate-ogm
+### hibernate-orm
+### hibernate-search
+### hibernate-semantic-query
+### hibernate-shards
+### hibernate-test-case-templates
+### hibernate-tools
+### hibernate-validator
+### hibernate.github.io
+### hibernate.org
+### in.relation.to
+### lucene-modules
+### version-injection-plugin
