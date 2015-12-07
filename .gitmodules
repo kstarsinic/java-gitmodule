@@ -31,3 +31,6 @@
 [submodule "jdepend"]
 	path = jdepend
 	url = https://github.com/clarkware/jdepend.git
+[submodule "java-callgraph"]
+	path = java-callgraph
+	url = https://github.com/gousiosg/java-callgraph.git
