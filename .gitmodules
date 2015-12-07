@@ -25,3 +25,9 @@
 [submodule "hibernate/hibernate-jpa-api"]
 	path = hibernate/hibernate-jpa-api
 	url = https://github.com/hibernate/hibernate-jpa-api.git
+[submodule "junit/junit"]
+	path = junit/junit
+	url = https://github.com/junit-team/junit.git
+[submodule "jdepend"]
+	path = jdepend
+	url = https://github.com/clarkware/jdepend.git
