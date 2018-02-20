@@ -1,4 +1,5 @@
 DIR         = '/nonesuch/directory/really'
+
 THE_COMMAND	= 'pwd'
 
 default: show
@@ -9,6 +10,9 @@ checkout:
 show:
 	@echo All submodules:
 	@$(MAKE) for-all-submodules THE_TARGET=show-one
+
+diff:
+	@git diff --submodule
 
 show-one:
 	@du -s "$(DIR)" | sed -e 's/^/	/'
