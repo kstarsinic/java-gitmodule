@@ -34,3 +34,6 @@
 [submodule "java-callgraph"]
 	path = java-callgraph
 	url = https://github.com/gousiosg/java-callgraph.git
+[submodule "hamcrest-junit"]
+	path = hamcrest-junit
+	url = https://github.com/hamcrest/hamcrest-junit.git
